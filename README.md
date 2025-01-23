@@ -1,2 +1,2 @@
-## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Yo, im vojtiik, also known as breath_, checkout my github!
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,react,cs,c++)](https://skillicons.dev)
